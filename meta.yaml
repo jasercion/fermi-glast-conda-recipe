@@ -1,6 +1,6 @@
 package:
   name: fermi-glast
-  version: "0.0.0"
+  version: "v11r5p3"
 
 source:
   git_url: https://github.com/Areustle/fermi-glast.git
