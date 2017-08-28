@@ -7,5 +7,5 @@ git clone https://github.com/Areustle/fermi-glast-conda-recipe.git
 
 cd fermi-glast-conda-recipe
 
-conda build -c fermi_dev_externals 
+conda build -c fermi_dev_externals .
 ```
